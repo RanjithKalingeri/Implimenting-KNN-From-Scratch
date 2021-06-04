@@ -3,6 +3,10 @@
 1. KNN is Implimented From Scratch Using Python Programming Language on MNIST Data Set 
 2. A comparitive study on Classification Rate Vs Different values of K is done 
 
+## Screen Shots 
+
+
+
 ## About Data Set
 
 MNIST Data Set 
