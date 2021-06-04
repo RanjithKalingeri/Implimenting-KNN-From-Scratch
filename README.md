@@ -6,6 +6,8 @@
 ## Screen Shots 
 
 
+![ss](https://user-images.githubusercontent.com/76031174/120774482-f2ad7e80-c53f-11eb-8ce7-99e6d2d878d8.png)
+
 
 ## About Data Set
 
